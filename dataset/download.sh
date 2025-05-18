@@ -1,0 +1,1 @@
+huggingface-cli download LanguageBind/VIDAL-Depth-Thermal --repo-type dataset --local-dir dataset/VIDAL-Depth-Thermal

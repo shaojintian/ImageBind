@@ -1,0 +1,15 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "15ec2b8b0a31fa86",
+  "_format_columns": [
+    "image_tensor"
+  ],
+  "_format_kwargs": {},
+  "_format_type": "torch",
+  "_output_all_columns": false,
+  "_split": "train[:1%]"
+}

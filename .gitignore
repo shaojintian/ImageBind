@@ -6,3 +6,6 @@ build/
 imagebind.egg-info
 .DS_Store
 venv/
+dataset/cache
+dataset/*.log
+dataset/*.arrow
